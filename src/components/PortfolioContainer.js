@@ -30,3 +30,5 @@ function PortfolioContainer() {
     </div>
   );
 }
+
+export default PortfolioContainer;
