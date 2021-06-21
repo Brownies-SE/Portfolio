@@ -29,7 +29,7 @@ function NavTabs({ currentPage, handlePageChange }) {
             currentPage === "Projects" ? "nav-link active" : "nav-link"
           }
         >
-          Blog
+          Projects
         </a>
       </li>
       <li className="nav-item">
