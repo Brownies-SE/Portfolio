@@ -29,14 +29,11 @@ function Projects() {
         </div>
       </a>
       <a
-        href="https://brownies-se.github.io/passwordGenerator/"
+        href="https://github.com/Brownies-SE/MVC-Tech-Blog"
         target="_blank"
         rel="noopener"
       >
-        <img
-          src="./assets/img/passwordGenerator.png"
-          alt="Password generator image"
-        />
+        <img src="https://j.gifs.com/Z8Vzx5.gif" alt="Gif of a blog" />
         <div class="img-text">
           <span class="project-name">Password Generator</span>
           <br />
