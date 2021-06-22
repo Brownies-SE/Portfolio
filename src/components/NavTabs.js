@@ -3,7 +3,11 @@ import { Navbar, Nav } from "react-bootstrap";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <Navbar bg="dark" variant="dark">
+    <Navbar
+      bg="dark"
+      variant="dark"
+      className="shadow p-3 mb-5 bg-body rounded"
+    >
       <Navbar.Brand>Josh Brown</Navbar.Brand>
       <Nav className="mr-auto">
         <Nav.Link>
