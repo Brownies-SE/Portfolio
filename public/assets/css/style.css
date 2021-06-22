@@ -1,0 +1,22 @@
+body {
+  background-color: #52796f !important;
+  color: white !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #cad2c5;
+  color: black;
+  text-align: center;
+}
+
+.middle {
+  margin-top: 50px;
+}
+
+.icon {
+  color: #2f3e46;
+}
