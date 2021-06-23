@@ -12,15 +12,6 @@ function NavTabs({ currentPage, handlePageChange }) {
       <Nav className="mr-auto">
         <Nav.Link>
           <a
-            href="#home"
-            onClick={() => handlePageChange("Home")}
-            className={currentPage === "Home" ? "nav-link active" : "nav-link"}
-          >
-            Home
-          </a>
-        </Nav.Link>
-        <Nav.Link>
-          <a
             href="#about"
             onClick={() => handlePageChange("About")}
             className={currentPage === "About" ? "nav-link active" : "nav-link"}
