@@ -47,18 +47,18 @@ function Projects() {
               />
 
               <Carousel.Caption>
-                <a href="https://github.com/Brownies-SE/MVC-Tech-Blog">
+                <a href="https://github.com/Brownies-SE/Workout-Tracker">
                   <h3 className="text">Tech Blog</h3>
                 </a>
-                <a href="https://pacific-waters-12030.herokuapp.com/">
-                  <p className="text">Post and interact with other users</p>
+                <a href="https://floating-atoll-99700.herokuapp.com/?id=60c7c57b5529cd0015f4b06f">
+                  <p className="text">Track your workouts</p>
                 </a>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="rounded d-block w-100"
-                src="https://j.gifs.com/Z8Vzx5.gif"
+                src="https://j.gifs.com/k25v2J.gif"
                 alt="Third slide"
               />
 

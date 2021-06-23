@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div class="footer">
+    <div class="footer shadow">
       <p className="mt-3">
         © Copyright Joshua Brown |
         <a href="https://github.com/Brownies-SE" className="ml-2 icon">

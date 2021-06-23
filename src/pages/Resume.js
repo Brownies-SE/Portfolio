@@ -5,7 +5,7 @@ function Resume() {
     <div className="p-3">
       <h1>Resume</h1>
       <p>
-        Download my{" "}
+        Download my
         <a
           href="./public/assets/documents/Resume.pdf"
           className="text-decoration-none"
