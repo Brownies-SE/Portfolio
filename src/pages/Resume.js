@@ -31,7 +31,7 @@ function Resume() {
         <li>MySQL, Sequalize</li>
         <li>MongoDB, Mongoose</li>
         <li>REST</li>
-        <li>GraohQL</li>
+        <li>GraphQL</li>
       </ul>
     </div>
   );

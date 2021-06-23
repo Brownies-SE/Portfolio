@@ -15,8 +15,12 @@ function Projects() {
                 alt="First slide"
               />
               <Carousel.Caption>
-                <h3 className="text">BeerMe</h3>
-                <p className="text">Find yourself a new beer</p>
+                <a href="https://github.com/TJCourey/beerMe-international">
+                  <h3 className="text">BeerMe</h3>
+                </a>
+                <a href="https://tjcourey.github.io/beerMe-international/">
+                  <p className="text">Find yourself a new beer here</p>
+                </a>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -27,8 +31,12 @@ function Projects() {
               />
 
               <Carousel.Caption>
-                <h3 className="text">Insomnia Thai</h3>
-                <p className="text">Order from our world famous menu</p>
+                <a href="https://github.com/Brownies-SE/Insomnia-Thai">
+                  <h3 className="text">Insomnia Thai</h3>
+                </a>
+                <a href="https://shielded-fortress-40349.herokuapp.com/">
+                  <p className="text">Order from our world famous menu</p>
+                </a>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -39,8 +47,12 @@ function Projects() {
               />
 
               <Carousel.Caption>
-                <h3 className="text">Tech Blog</h3>
-                <p className="text">Post and interact with other users</p>
+                <a href="https://github.com/Brownies-SE/MVC-Tech-Blog">
+                  <h3 className="text">Tech Blog</h3>
+                </a>
+                <a href="https://pacific-waters-12030.herokuapp.com/">
+                  <p className="text">Post and interact with other users</p>
+                </a>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
