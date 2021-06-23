@@ -50,8 +50,8 @@ function Projects() {
                 <a href="https://github.com/Brownies-SE/Workout-Tracker">
                   <h3 className="text">Tech Blog</h3>
                 </a>
-                <a href="https://floating-atoll-99700.herokuapp.com/?id=60c7c57b5529cd0015f4b06f">
-                  <p className="text">Track your workouts</p>
+                <a href="https://pacific-waters-12030.herokuapp.com/">
+                  <p className="text">Post and interact with other users</p>
                 </a>
               </Carousel.Caption>
             </Carousel.Item>
@@ -63,8 +63,12 @@ function Projects() {
               />
 
               <Carousel.Caption>
-                <h3 className="text">Tech Blog</h3>
-                <p className="text">Post and interact with other users</p>
+                <a href="https://github.com/Brownies-SE/Workout-Tracker">
+                  <h3 className="text">Fitness Tracker</h3>
+                </a>
+                <a href="https://floating-atoll-99700.herokuapp.com/?id=60c7c57b5529cd0015f4b06f">
+                  <p className="text">Take control of your workouts</p>
+                </a>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -75,8 +79,12 @@ function Projects() {
               />
 
               <Carousel.Caption>
-                <h3 className="text">Tech Blog</h3>
-                <p className="text">Post and interact with other users</p>
+                <a href="https://github.com/Brownies-SE/Budget-Tracker">
+                  <h3 className="text">Budget Tracker</h3>
+                </a>
+                <a href="https://protected-tor-27728.herokuapp.com/">
+                  <p className="text">Keep track of your money</p>
+                </a>
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
