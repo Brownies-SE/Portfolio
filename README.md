@@ -15,7 +15,7 @@ This is my personal portfolio built using react. It is a single page application
 
 # Installation
 
-No installation necessary, visit:
+No installation necessary, visit: https://jbrown-portfolio.netlify.app/
 
 # Usage
 
