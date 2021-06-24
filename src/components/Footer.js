@@ -16,8 +16,7 @@ function Footer() {
           <i class="fab fa-linkedin"></i>
         </a>
         <span className="ml-2">|</span>
-        {/*    Not working      */}
-        <a href="./public/assets/documents/Resume.pdf" className="ml-2 icon">
+        <a href="/assets/documents/Resume.pdf" className="ml-2 icon">
           <i class="fas fa-download"></i>
         </a>
       </p>

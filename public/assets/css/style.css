@@ -28,3 +28,11 @@ body {
 .project {
   color: #cad2c5;
 }
+
+.pColor {
+  background-color: #2f3e46 !important;
+}
+
+.progress-bar.bg-pColor.progress-bar-animated.progress-bar-striped {
+  background-color: red !important;
+}
